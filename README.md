@@ -14,8 +14,10 @@ The game focuses on fear created through atmosphere, sound, and limited visibili
 ## Development Status
 Currently in development.
 
+## Gameplay
+- First-person exploration
+
 ## Notes
 This project is created as a learning and portfolio piece for game programming.
 
-## Gameplay
-- First-person exploration
+
