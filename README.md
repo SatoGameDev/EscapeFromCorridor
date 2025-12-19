@@ -7,7 +7,7 @@ The game focuses on fear created through atmosphere, sound, and limited visibili
 ## Concept
 - Exploration-based horror experience
 
-- ## Gameplay
+## Gameplay
 - First-person exploration
 
 ## Technology
