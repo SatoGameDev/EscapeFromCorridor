@@ -1,0 +1,21 @@
+.gitignore
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.log
+
+# Build
+Debug/
+Release/
+x64/
+x86/
+
+# Executable
+*.exe
+*.pdb
+
+# Object files
+*.obj
+*.ilk
